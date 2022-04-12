@@ -13,21 +13,6 @@ using System.Windows.Forms;
 
 
 
-//Zaimplementować w.NET(język C#) aplikację działającą w trybie graficznym, która demonstruje zasadę działania wielowątkowości.
-//Aplikacja ma mieć możliwość utworzenia co najmniej 3 wątków, które będą wykonywać jakieś sensowne obliczenia matematyczne lub inne akcje różne od wypisywania tekstu.
-//Obliczenia mają trwać na tyle długo, aby można było zaobserwować wielowątkowość.
-
-//Należy przesłać:
-
-//1. Archiwum zip z kompletnym rozwiązaniem zadania.
-//2. Plik doc lub docx z informacją co to jest wielowątkowość i do czego ją się wykorzystuje oraz należy sporządzić instrukcję jak to zadanie wykonać
-//(jak wygląda główna forma, jakie kontrolki zostały umieszczone na formie, jakie właściwości określono dla kontrolek, jakie zdarzenia i w jaki sposób zostały oprogramowane).
-
-//Uwagi:
-
-//Pami ętaj o podaniu bibliografii.
-
-
 namespace game_auto_studia
 {
     public partial class Form1 : Form
